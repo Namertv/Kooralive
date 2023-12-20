@@ -1,0 +1,13 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20:v19-20231216-fb57c71","time":"2023-12-18T22:30:55Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/browsers","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/escodegen","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/esgenerate","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/esparse","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/esvalidate","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/extract-zip","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/js-yaml","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/puppeteer","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-conv","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-sign","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/sshpk-verify","time":"2023-12-18T22:30:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uuid","time":"2023-12-18T22:30:56Z"}
